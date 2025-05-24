@@ -59,22 +59,6 @@ This extension:
 
 ## Development
 
-### Building from Source
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Build the extension:
-   ```bash
-   npm run build
-   ```
-4. Load the extension in Chrome:
-   - Open Chrome and go to `chrome://extensions/`
-   - Enable "Developer mode"
-   - Click "Load unpacked"
-   - Select the `dist` directory
-
 ### Technologies Used
 - HTML5
 - CSS3
@@ -85,12 +69,6 @@ This extension:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
 
-Created by [Chetan Poojari](https://github.com/chetanpoojari)
-
----
-
-⭐ Star this repository if you find it useful! 
+Created by [Chetan Poojari](https://chetanpoojari.com)
