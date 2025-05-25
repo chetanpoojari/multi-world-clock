@@ -1,8 +1,9 @@
 # Multi World Clocks
 
-A beautiful and customizable Chrome extension that displays multiple world clocks on your new tab page. Perfect for professionals, travelers, and anyone who needs to keep track of different time zones.
+A beautiful and customizable Chrome extension that displays multiple world clocks on your new tab page. Perfect for professionals working with teams from different timezones, travelers, and anyone who needs to keep track of different time zones.
 
-![Multi World Clocks Preview](logo.png)
+![image](https://github.com/user-attachments/assets/2196b809-5e0c-4334-83ca-e81e2e6d6051)
+
 
 ## Features
 
@@ -12,7 +13,6 @@ A beautiful and customizable Chrome extension that displays multiple world clock
 - 🎯 Customizable clock labels
 - 🎨 Individual color customization for each clock
 - 🔄 Drag and drop reordering of clocks
-- 🌙 Dark theme support
 - 📱 Responsive design that works on all screen sizes
 
 ## Installation
@@ -29,7 +29,7 @@ A beautiful and customizable Chrome extension that displays multiple world clock
 3. Click "Add Clock" to add a new timezone
 4. Select your desired timezone from the dropdown
 5. Optionally add a custom label for the clock
-6. Click "Save Changes"
+6. Click "Save Changes."
 
 ### Customizing Appearance
 1. Open settings (⚙️)
@@ -40,7 +40,7 @@ A beautiful and customizable Chrome extension that displays multiple world clock
 
 ### Reordering Clocks
 1. Click the reorder button (↔️) in the bottom left
-2. Drag and drop clocks to your preferred order
+2. Drag and drop the clocks to your preferred order
 3. Click the reorder button again to exit reorder mode
 
 ## Support
@@ -66,9 +66,6 @@ This extension:
 - Chrome Extension APIs
 - [SlimSelect](https://github.com/brianvoe/slim-select) for enhanced dropdowns
 - [Vanilla Picker](https://github.com/Sphinxxxx/vanilla-picker) for color selection
-
-## License
-
 
 
 Created by [Chetan Poojari](https://chetanpoojari.com)
